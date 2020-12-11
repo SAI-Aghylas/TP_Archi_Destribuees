@@ -1,3 +1,3 @@
-[debug] "not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/home/aghylassai/Bureau/Spark/spark-df/project/"), "spark-df-build")...
-[debug] Done updating ProjectRef(uri("file:/home/aghylassai/Bureau/Spark/spark-df/project/"), "spark-df-build")
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/aghylassai/Bureau/Spark/TpSpark/TP_Archi_Destribuees/project/"), "tp_archi_destribuees-build")...
+[debug] Done updating ProjectRef(uri("file:/home/aghylassai/Bureau/Spark/TpSpark/TP_Archi_Destribuees/project/"), "tp_archi_destribuees-build")
